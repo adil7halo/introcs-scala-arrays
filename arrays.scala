@@ -1,5 +1,5 @@
 import scala.math.min
- import scala.io.Source
+import scala.io.Source
 
     object arrays {
         
